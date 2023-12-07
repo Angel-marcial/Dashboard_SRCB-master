@@ -24,6 +24,34 @@
 
             </div>
 
+
+
+            <div class="titleForm flex items-center justify-between px-5 py-3 text-gray-700 border-b">
+              <h3 class="text-sm">Programa</h3>
+
+              <button
+                class="px-3 py-1 text-sm text-white bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none">
+              Guardar
+              </button>
+
+              <button
+                class="px-3 py-1 text-sm text-white bg-indigo-600 rounded-md hover:bg-indigo-500 focus:outline-none">
+                Cancelar
+              </button>
+
+            </div>
+
+
+
+
+
+
+
+
+
+
+
+
           </form>
         </div>
       </div>
